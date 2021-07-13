@@ -2,7 +2,7 @@ import { ProfileRelationsBoxWrapper } from "../../components";
 
 export const ProfileRelationsBoxInclude = ({ title, list }) => {
   const runCards = () => {
-    const newList = list.slice(0, 5);
+    const newList = list.slice(0, 6);
 
     return newList.map((itemAtual) => {
       return (
