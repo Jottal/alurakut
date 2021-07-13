@@ -1,0 +1,40 @@
+{
+  "friends": [
+    {
+      "id": "123213123",
+      "title": "juunegreiros",
+      "image": "https://github.com/juunegreiros.png",
+      "direct": "/users/juunegreiros"
+    },
+    {
+      "id": "12321312367890",
+      "title": "omariosouto",
+      "image": "https://github.com/omariosouto.png",
+      "direct": "/users/omariosouto"
+    },
+    {
+      "id": "123213123151",
+      "title": "peas",
+      "image": "https://github.com/peas.png",
+      "direct": "/users/peas"
+    },
+    {
+      "id": "12321312324141",
+      "title": "rafaballerini",
+      "image": "https://github.com/rafaballerini.png",
+      "direct": "/users/rafaballerini"
+    },
+    {
+      "id": "123213123415",
+      "title": "marcobrunodev",
+      "image": "https://github.com/marcobrunodev.png",
+      "direct": "/users/marcobrunodev"
+    },
+    {
+      "id": "123212345",
+      "title": "felipefialho",
+      "image": "https://github.com/felipefialho.png",
+      "direct": "/users/felipefialho"
+    }
+  ]
+}
